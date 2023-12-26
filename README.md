@@ -1,5 +1,5 @@
 # ZeeChat - Chat Application 
-ZeeChat is chat application build with the power of MERN Stack.
+ZeeChat is a chat application that I built with the power of MERN Stack.
 
 
 ![login page](./images/LoginScreen.png)
